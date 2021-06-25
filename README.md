@@ -1,4 +1,4 @@
 - Hi, my name is Emmanuel.
 - I am a visuel effect artist specialised in compositing and motion design who's working on large scale of projects, from high end feature film to B2B animation.
-- Few years ago, I started to learn Python language to build my own tools for my everyday tasks. Like chocolate, when you start, it is difficult to stop,
-- so I am continuing to expand my knowledge with in mind to push in tool development and image processing (Computer vision).
+- Few years ago, I started to learn Python language to build my own tools for my everyday tasks. Like chocolate, when you start, it is difficult to stop.
+- So I am continuing to expand my knowledge with in mind to push in tool development and image processing (Computer vision).
